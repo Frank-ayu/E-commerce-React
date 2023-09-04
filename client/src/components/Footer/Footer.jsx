@@ -3,7 +3,7 @@ import "./Footer.scss";
 
 const Footer = () => {
   return (
-    <div className="Footer">
+    <div className="footer">
       <div className="top">
         <div className="item">
           <h1>Categories</h1>
